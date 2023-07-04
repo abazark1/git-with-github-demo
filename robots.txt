@@ -3,7 +3,7 @@
 User-agent: *
 Disallow:
 # This line has been added to demonstrate the usage of "git pull" command by me
-# This line has been added to demonstrate the usage of "git push" commanii
+# This line has been added to demonstrate the usage of "git push" command by me (ALiia)
 # This line has been added to demonstrate the usage of SSH protocol
 
 # some line
